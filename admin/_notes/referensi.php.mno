@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Rreferensi" value="name:id_masakan;datatype:int,name:nama_masakan;datatype:string,name:harga;datatype:int,name:status_masakan;datatype:string,name:foto_masakan;datatype:string" />
+	<infoitem key="UD_Ruser" value="name:id_user;datatype:int,name:username;datatype:string,name:password;datatype:string,name:nama_user;datatype:string,name:id_level;datatype:int" />
+</info>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Rorder" value="name:id_order;datatype:int,name:id_meja;datatype:int,name:tanggal;datatype:date,name:id_user;datatype:int,name:keterangan;datatype:blob,name:status_order;datatype:string" />
+	<infoitem key="UD_Rdetail_order" value="name:id_detail_order;datatype:int,name:id_order;datatype:int,name:id_masakan;datatype:int,name:keterangan;datatype:blob,name:status_detail_order;datatype:string" />
+	<infoitem key="UD_Ruser" value="name:id_user;datatype:int,name:username;datatype:string,name:password;datatype:string,name:nama_user;datatype:string,name:id_level;datatype:int" />
+	<infoitem key="UD_Rmeja" value="name:id_meja;datatype:int,name:no_meja;datatype:int,name:status_meja;datatype:string" />
+	<infoitem key="UD_Rmasakan" value="name:id_masakan;datatype:int,name:nama_masakan;datatype:string,name:harga;datatype:int,name:status_masakan;datatype:string,name:foto_masakan;datatype:string" />
+</info>
